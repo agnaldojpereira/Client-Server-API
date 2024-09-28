@@ -63,6 +63,3 @@ Este projeto consiste em dois programas em Go que trabalham juntos para obter e 
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
 
-## Licença
-
-Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
